@@ -1,0 +1,3 @@
+[submodule "android/xml2axml"]
+	path = android/xml2axml
+	url = https://github.com/rhamadhany/xml2axml
